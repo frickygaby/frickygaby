@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">I'm a Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/frickygaby" target="blank"><img src="https://img.shields.io/twitter/follow/frickygaby?logo=twitter&style=for-the-badge" alt="frickygaby" /></a> </p>
+<p align="left"> <a href="https://twitter.com/GabrielNdibe_" target="blank"><img src="https://img.shields.io/twitter/follow/GabrielNdibe?logo=twitter&style=for-the-badge" alt="GabrielNdibe" /></a> </p>
 
 - 🔭 I’m currently working on **React Js, CSS**
 
